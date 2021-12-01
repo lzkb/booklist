@@ -1,0 +1,23 @@
+export const BOOK_LIST = { bookList: [
+    { id: 'a', author: 'Faith Hunter', title: 'SkinWalker', series: 'Jane Yellowrock', seriesSequenceNumber: '1', source: '', ISBN: '', mediaType: '', read: "true", dateRead: '', sourceUri: '', coverImage: '' },
+    { id: 'b', author: 'Faith Hunter', title: 'Blood Cross', series: 'Jane Yellowrock', seriesSequenceNumber: '2', source: '', ISBN: '' , mediaType: '', read: "true", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'c', author: 'Faith Hunter', title: 'Mercy Blade', series: 'Jane Yellowrock', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'd', author: 'Faith Hunter', title: 'Raven Cursed', series: 'Jane Yellowrock', seriesSequenceNumber: '4', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'e', author: 'Faith Hunter', title: "Death's Rival", series: 'Jane Yellowrock', seriesSequenceNumber: '5', source: '', ISBN: '' , mediaType: '', read: "true", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'f', author: 'Faith Hunter', title: 'Blood of the Earth', series: 'Soulwood', seriesSequenceNumber: '1', source: '', ISBN: '' , mediaType: '', read: "true", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'g', author: 'Faith Hunter', title: 'Curse on the Land', series: 'Soulwood', seriesSequenceNumber: '2', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'h', author: 'Faith Hunter', title: 'Bloodring', series: 'Thorn St Croix', seriesSequenceNumber: '1', source: '', ISBN: '1' , mediaType: '', read: "true", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'i', author: 'Faith Hunter', title: 'Seraphs', series: 'Thorn St Croix', seriesSequenceNumber: '2', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'j', author: 'Faith Hunter', title: 'Host', series: 'Thorn St Croix', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'k', author: 'Ben Aaronovitch', title: 'Rivers of London', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'l', author: 'Ben Aaronovitch', title: 'Moon Over Soho', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'm', author: 'Ben Aaronovitch', title: 'Whispers Under Ground', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'n', author: 'Ben Aaronovitch', title: 'Broken Homes', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'o', author: 'Ben Aaronovitch', title: 'Foxglove Summer', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'p', author: 'Ben Aaronovitch', title: 'The Furthest Station', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'q', author: 'Ben Aaronovitch', title: 'The Hanging Tree', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 'r', author: 'Ben Aaronovitch', title: 'Lies Sleeping', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 's', author: 'Ben Aaronovitch', title: 'The October Man', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+    { id: 't', author: 'Ben Aaronovitch', title: 'False Value', series: 'Rivers of London', seriesSequenceNumber: '3', source: '', ISBN: '' , mediaType: '', read: "false", dateRead: '',  sourceUri: '', coverImage: '' },
+
+  ]};
